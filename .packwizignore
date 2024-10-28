@@ -4,4 +4,4 @@
 # Exclude README
 /README.md
 /packwiz.exe
-/.data
+/data
