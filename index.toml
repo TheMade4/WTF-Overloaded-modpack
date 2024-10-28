@@ -350,6 +350,11 @@ hash = "8bfb0749eb020348649c1c7abf3e5b980ac35a52508a52fb329c19135b55b869"
 metafile = true
 
 [[files]]
+file = "mods/optifine.pw.toml"
+hash = "d72b2ae45c82efd41a39b0892743546d7729d3337665b24da8131ae2aec36d9b"
+metafile = true
+
+[[files]]
 file = "mods/particle-culling.pw.toml"
 hash = "07d424d548178e08ebfa96074d8d3483fa4214050bcdecc4f7ab43d5570acb67"
 metafile = true
@@ -508,10 +513,6 @@ metafile = true
 file = "mods/trashslot.pw.toml"
 hash = "c803580833ccd58d06253637db9db308b02d44aea2f06d30020aa5836a36e555"
 metafile = true
-
-[[files]]
-file = "mods/vintagium-mc1.12.2-0.1.jar"
-hash = "78c2c3aca1a87e0c046ce4777f7a29eaa5444da339b35a1e3140f7c421a67f57"
 
 [[files]]
 file = "mods/waystones.pw.toml"
