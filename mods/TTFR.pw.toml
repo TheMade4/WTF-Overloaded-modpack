@@ -1,0 +1,9 @@
+name = "TTFR"
+filename = "TTFR-1.12.1-1.9.1.jar"
+side = "client"
+pin = true
+
+[download]
+url = "https://themade4.github.io/WTF-Overloaded-modpack/.data/TTFR-1.12.1-1.9.1.jar"
+hash-format = "sha256"
+hash = "5c09afdef46c63d3e5faf82a8b0b990ea9d250fd074d8ec2af4b52f90542a1a0"

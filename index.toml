@@ -1,8 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "mods/TTFR.pw.toml"
+hash = "6cbf5ebd48b6752a70b398144ff3214c5020f9b8682240512685da222f910a47"
+metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -507,11 +508,6 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "c803580833ccd58d06253637db9db308b02d44aea2f06d30020aa5836a36e555"
-metafile = true
-
-[[files]]
-file = "mods/truetype-font-replacement.pw.toml"
-hash = "30674cea5f3b9be2e72ce0330ae6e88e9a3e087a42562e74fa44ef1c1baadc27"
 metafile = true
 
 [[files]]
