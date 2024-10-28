@@ -1,0 +1,13 @@
+name = "WTF Overloaded"
+author = "TM4"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d556d306829e1780848be99768710f71d86fe6875925a5b1ae7ebfb5d0fd3cf0"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
