@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Power+Utilities.jar"
+hash = "6c3d59d12ac95bc22a3cbb8dce9d1c1c30b24a8305b46de1b4cbfd9ad385b361"
+
+[[files]]
 file = "mods/TTFR.pw.toml"
 hash = "6cbf5ebd48b6752a70b398144ff3214c5020f9b8682240512685da222f910a47"
 metafile = true
@@ -363,11 +367,6 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "e4e11e2b8927141d5a26f2f0f33efe3ca0be85df291379acf6963a0307f952f5"
-metafile = true
-
-[[files]]
-file = "mods/power-utilities-iu.pw.toml"
-hash = "8fad82222abed3780b72b251cd45e9ef9f1d58e35397969e12f8a43d80d5b563"
 metafile = true
 
 [[files]]
