@@ -350,11 +350,6 @@ hash = "8bfb0749eb020348649c1c7abf3e5b980ac35a52508a52fb329c19135b55b869"
 metafile = true
 
 [[files]]
-file = "mods/optifine.pw.toml"
-hash = "d72b2ae45c82efd41a39b0892743546d7729d3337665b24da8131ae2aec36d9b"
-metafile = true
-
-[[files]]
 file = "mods/particle-culling.pw.toml"
 hash = "07d424d548178e08ebfa96074d8d3483fa4214050bcdecc4f7ab43d5570acb67"
 metafile = true
