@@ -1,12 +1,12 @@
 name = "WTF Overloaded"
 author = "TM4"
-version = "1.0.4"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5de95bbed7a65844744432f8ce416fdb552afb03b79a2dba303f427a1b2132d8"
+hash = "a56f74ff319442acdd7fdc844a37e71f02b831ee89cb0265ca61a9885a19d651"
 
 [versions]
 forge = "14.23.5.2860"
