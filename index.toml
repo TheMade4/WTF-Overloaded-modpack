@@ -170,6 +170,16 @@ hash = "d856a3027bb9f9d54c0ea2e02e6150510eeebd240bbb240779cdf0c27607110b"
 metafile = true
 
 [[files]]
+file = "mods/fermiumasm.pw.toml"
+hash = "30a3063cfc3d9329521fda770b983f7351c06abb8c25f9c33e1336b1b2ca73de"
+metafile = true
+
+[[files]]
+file = "mods/fermiumbooter.pw.toml"
+hash = "0e3b0bc5908955eef7b2f6593dbab8e47f89ea66fa48fcd205328d794798e4d5"
+metafile = true
+
+[[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "a9fa720cb799b8a70ad7411c16c8c61b87883fffba58117ecd3e7976f18c4f40"
 metafile = true
@@ -197,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/hwyla.pw.toml"
 hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+metafile = true
+
+[[files]]
+file = "mods/ido.pw.toml"
+hash = "05522e04504a3d134d6c6ddf8bc7f39c9740b0a39925befb3e486c3675dc156e"
 metafile = true
 
 [[files]]
@@ -272,11 +287,6 @@ metafile = true
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "59ef126579f6c818d025771565c18c54fd21999dddad08c31637b3c456b580c7"
-metafile = true
-
-[[files]]
-file = "mods/lolasm.pw.toml"
-hash = "d2c61d32b03991d8aa5538fa36e99e84b4932bfacd25df098e74af26af949e41"
 metafile = true
 
 [[files]]
@@ -377,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/railcraft.pw.toml"
 hash = "0edb73f5cabf289514e4de0deca57f031e74ec87c0291ea33e0e75190037959d"
+metafile = true
+
+[[files]]
+file = "mods/randompatches-forge.pw.toml"
+hash = "93d16979ce8714c02e8e13cfb36d7f604e75ca334ec3349bf6d4e8e42f1c5563"
 metafile = true
 
 [[files]]
